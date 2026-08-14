@@ -11,8 +11,7 @@ A classic 2048 sliding block puzzle game built from scratch in Python using **Tk
 
 <br/><br/>
 
-<!-- Screenshot Preview -->
-<img src="screenshot.png" alt="2048 Game Preview" width="450" />
+
 
 </div>
 
@@ -56,7 +55,6 @@ cd 2048-AI-Project-
 🕹️ Controls
    Key              Action
 ⬆️ Up        ArrowSlide al​1️⃣ Initial State (Game Start)
-​<img src="output1.jpg" alt="Game Start" width="420" />l tiles Up
 ⬇️ Down      ArrowSlide all tiles Down
 ⬅️ Left      ArrowSlide all tiles Left
 ➡️ Right     ArrowSlide all tiles Right
@@ -64,6 +62,8 @@ cd 2048-AI-Project-
 
 
 📸 Final Output
+
+  ![Preview](finaloutput.jpg)
 ​
 
 
