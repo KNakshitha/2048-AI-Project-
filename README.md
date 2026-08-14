@@ -2,16 +2,12 @@
 
 # 🎮 2048 Game in Python
 
-A classic 2048 sliding block puzzle game built from scratch in Python using **Tkinter** for graphical interface and game animations.
+A classic 2048 sliding block puzzle game built from scratch in Python using **Tkinter** for graphical user interface and animation.
 
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet?style=for-the-badge)
 ![Game](https://img.shields.io/badge/Game-2048-orange?style=for-the-badge)
-
-<br/><br/>
-
-
 
 </div>
 
@@ -19,25 +15,24 @@ A classic 2048 sliding block puzzle game built from scratch in Python using **Tk
 
 ## 📌 Overview
 
-This project is a desktop recreation of the popular single-player sliding block puzzle game **2048**. The objective is to slide numbered tiles on a 4×4 grid using arrow keys, combining matching tiles to create a tile with the number **2048** (and beyond).
+This project is a desktop recreation of the popular single-player sliding block puzzle game **2048**. The objective is to slide numbered tiles on a 4×4 grid using arrow keys, combining matching tiles to reach the **2048** tile!
 
 ---
 
 ## ✨ Features
 
-* 🎯 **Classic 4x4 Grid:** Authentic tile color palette matching original values.
-* ⌨️ **Keyboard Controls:** Play smoothly with standard arrow keys.
-* 🔢 **Tile Merging Logic:** Full row/column compression, merging, and real-time score calculation.
+* 🎯 **Classic 4x4 Grid:** Smooth UI with authentic tile colors.
+* ⌨️ **Keyboard Controls:** Move smoothly in all 4 directions.
+* 🔢 **Tile Merging Logic:** Full matrix compression, merging, and score tracking.
 * 🎲 **Random Tile Spawner:** Automatically spawns `2` or `4` after each valid move.
-* ⚡ **Zero Dependencies:** Runs natively with Python standard libraries (`tkinter`, `random`).
+* ⚡ **Zero External Dependencies:** Built purely with Python standard libraries (`tkinter`, `random`).
 
 ---
 
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3
-* **GUI Framework:** Tkinter (Standard GUI toolkit)
-* **Logic:** Matrix transformation & manipulation
+* **GUI Toolkit:** Tkinter
 
 ---
 
@@ -49,22 +44,16 @@ git clone [https://github.com/KNakshitha/2048-AI-Project-.git](https://github.co
 cd 2048-AI-Project-
 ```
 
-2. Run the game
+2.Run the script 
   python3 2048.py
 
 🕹️ Controls
-   Key              Action
-⬆️ Up        ArrowSlide al​1️⃣ Initial State (Game Start)
-⬇️ Down      ArrowSlide all tiles Down
-⬅️ Left      ArrowSlide all tiles Left
-➡️ Right     ArrowSlide all tiles Right
+​<kbd>▲ Up Arrow</kbd>  —  Slide tiles Up
+​<kbd>▼ Down Arrow</kbd>  —  Slide tiles Down
+​<kbd>◄ Left Arrow</kbd>  —  Slide tiles Left
+​<kbd>► Right Arrow</kbd>  —  Slide tiles Right
 
 
+​📸 Final Output
 
-📸 Final Output
-
-  ![Preview](finaloutput.jpg)
-​
-
-
-
+![Preview](finaloutput.jpg)
