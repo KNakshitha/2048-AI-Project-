@@ -48,9 +48,13 @@ cd 2048-AI-Project-
   python3 2048.py
 
 🕹️ Controls
+
 ​<kbd>▲ Up Arrow</kbd>  —  Slide tiles Up
+
 ​<kbd>▼ Down Arrow</kbd>  —  Slide tiles Down
+
 ​<kbd>◄ Left Arrow</kbd>  —  Slide tiles Left
+
 ​<kbd>► Right Arrow</kbd>  —  Slide tiles Right
 
 
