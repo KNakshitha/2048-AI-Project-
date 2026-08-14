@@ -48,6 +48,7 @@ This project is a desktop recreation of the popular single-player sliding block 
 ```bash
 git clone [https://github.com/KNakshitha/2048-AI-Project-.git](https://github.com/KNakshitha/2048-AI-Project-.git)
 cd 2048-AI-Project-
+```
 
 2. Run the game
   python3 2048.py
