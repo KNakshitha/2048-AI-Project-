@@ -65,4 +65,4 @@ cd 2048-AI-Project-
 ![2048 Game Preview](final output.png)
 
 
-![Preview](output1.png)
+![Preview](output1.jpg)
