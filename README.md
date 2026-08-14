@@ -58,3 +58,8 @@ cd 2048-AI-Project-
 ⬇️ Down      ArrowSlide all tiles Down
 ⬅️ Left      ArrowSlide all tiles Left
 ➡️ Right     ArrowSlide all tiles Right
+
+
+![2048 Game Preview](output1.png)
+![2048 Game Preview](output2.png)
+![2048 Game Preview](final output.png)
