@@ -46,7 +46,7 @@ This project is a desktop recreation of the popular single-player sliding block 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/KNakshitha/2048-AI-Project-.git
+git clone [https://github.com/KNakshitha/2048-AI-Project-.git](https://github.com/KNakshitha/2048-AI-Project-.git)
 cd 2048-AI-Project-
 
 2. Run the game
@@ -60,9 +60,11 @@ cd 2048-AI-Project-
 ➡️ Right     ArrowSlide all tiles Right
 
 
-![2048 Game Preview](output1.png)
-![2048 Game Preview](output2.png)
-![2048 Game Preview](final output.png)
+<div align="center">
+<img src="output1.jpg" alt="Game Start" width="300" />
+<img src="output2.jpg" alt="Mid Game" width="300" />
 
 
-![Preview](output1.jpg)
+
+<img src="final%20output.jpg" alt="Final Solved State" width="350" />
+</div>
