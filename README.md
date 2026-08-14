@@ -44,8 +44,11 @@ git clone [https://github.com/KNakshitha/2048-AI-Project-.git](https://github.co
 cd 2048-AI-Project-
 ```
 
+
 2.Run the script 
   python3 2048.py
+
+
 
 🕹️ Controls
 
@@ -58,6 +61,8 @@ cd 2048-AI-Project-
 ​<kbd>► Right Arrow</kbd>  —  Slide tiles Right
 
 
+
 ​📸 Final Output
+
 
 ![Preview](finaloutput.jpg)
