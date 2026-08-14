@@ -63,17 +63,8 @@ cd 2048-AI-Project-
 
 
 
-📸 Gameplay Showcase
-​<div align="center">
+📸 Final Output
+​
 
-​1️⃣ Initial State (Game Start)
-​<img src="output1.jpg" alt="Game Start" width="420" />
-
-​2️⃣ Mid Game (Combining Tiles)
-​<img src="output2.jpg" alt="Mid Game" width="420" />
-
-​3️⃣ Target Reached (2048 Solved!)
-​<img src="final%20output.jpg" alt="Final Solved State" width="420" />
-​</div>
 
 
