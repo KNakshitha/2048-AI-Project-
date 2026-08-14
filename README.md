@@ -2,12 +2,17 @@
 
 # 🎮 2048 Game in Python
 
-A classic 2048 sliding block puzzle game built from scratch in Python using **Tkinter** for graphical user interface and animation.
+A classic 2048 sliding block puzzle game built from scratch in Python using **Tkinter** for graphical interface and game animations.
 
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-blueviolet?style=for-the-badge)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet?style=for-the-badge)
 ![Game](https://img.shields.io/badge/Game-2048-orange?style=for-the-badge)
+
+<br/><br/>
+
+<!-- Screenshot Preview -->
+<img src="screenshot.png" alt="2048 Game Preview" width="450" />
 
 </div>
 
@@ -21,18 +26,18 @@ This project is a desktop recreation of the popular single-player sliding block 
 
 ## ✨ Features
 
-* 🎯 **Classic 4x4 Grid:** Smooth grid rendering with authentic tile color matching for each value.
-* ⌨️ **Keyboard Controls:** Play using standard arrow keys (`Up`, `Down`, `Left`, `Right`).
-* 🔢 **Tile Merging Logic:** Full implementation of row/column compression, merging, and score tracking.
-* 🎲 **Dynamic Tile Spawning:** Generates random tiles (`2` or `4`) after every valid move.
-* ⚡ **Zero External Dependencies:** Built entirely with Python standard libraries (`tkinter`, `random`).
+* 🎯 **Classic 4x4 Grid:** Authentic tile color palette matching original values.
+* ⌨️ **Keyboard Controls:** Play smoothly with standard arrow keys.
+* 🔢 **Tile Merging Logic:** Full row/column compression, merging, and real-time score calculation.
+* 🎲 **Random Tile Spawner:** Automatically spawns `2` or `4` after each valid move.
+* ⚡ **Zero Dependencies:** Runs natively with Python standard libraries (`tkinter`, `random`).
 
 ---
 
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3
-* **GUI Framework:** `tkinter` (Standard GUI toolkit)
+* **GUI Framework:** Tkinter (Standard GUI toolkit)
 * **Logic:** Matrix transformation & manipulation
 
 ---
@@ -41,18 +46,15 @@ This project is a desktop recreation of the popular single-player sliding block 
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/KNakshitha/2048-AI-Project-.git](https://github.com/KNakshitha/2048-AI-Project-.git)
+git clone https://github.com/KNakshitha/2048-AI-Project-.git
 cd 2048-AI-Project-
 
 2. Run the game
-​Since it uses standard built-in Python libraries, no extra pip install is needed!
-  On windows/Ubuntu:
-        python3 2048.py
-  (Or python 2048.py depending on your setup)
+  python3 2048.py
 
 🕹️ Controls
-  KeyAction
-⬆️ Up ArrowSlide all tiles Up
-⬇️ Down ArrowSlide all tiles Down
-⬅️ Left ArrowSlide all tiles Left
-➡️ Right ArrowSlide all tiles Right
+   Key              Action
+⬆️ Up        ArrowSlide all tiles Up
+⬇️ Down      ArrowSlide all tiles Down
+⬅️ Left      ArrowSlide all tiles Left
+➡️ Right     ArrowSlide all tiles Right
